@@ -1,6 +1,7 @@
 {
     "recommendations": [
         "ritwickdey.liveserver",
-        "eamodio.gitlens"
+        "eamodio.gitlens",
+        "vscode-icons-team.vscode-icons"
     ]
 }
